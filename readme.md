@@ -1,6 +1,6 @@
 <h1>Accordion in JS<h1>
 
-Snapshots.. 
+<h2>Snapshots.. <h2>
 
 ![image](https://user-images.githubusercontent.com/32032491/216298470-fbca4fd9-0c19-482c-a7b4-247303e50709.png)
 
